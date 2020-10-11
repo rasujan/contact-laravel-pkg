@@ -1,0 +1,19 @@
+{
+    "name": "rasujan/contact",
+    "description": "This is a simple test package that sends an email and saves query. An basic contact us",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sujan Maharjan",
+            "email": "sujan.maharjan555@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Rasujan\\Contact": "src/"
+        }
+    }
+}
